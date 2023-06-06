@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CayPhanDoan_IntervalTree_SegmentTree", "CayPhanDoan_IntervalTree_SegmentTree\CayPhanDoan_IntervalTree_SegmentTree.pyproj", "{EB177209-1389-4C48-901B-73095A480891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB177209-1389-4C48-901B-73095A480891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB177209-1389-4C48-901B-73095A480891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93EAF671-C670-4BAE-A534-C58F66D50636}
+	EndGlobalSection
+EndGlobal
